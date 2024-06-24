@@ -1,0 +1,17 @@
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Repository.deps.json
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Repository.runtimeconfig.json
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Repository.dll
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Repository.pdb
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Domain.dll
+/Users/sh1riyev/Projects/API-Architecture/Repository/bin/Release/net6.0/Domain.pdb
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.AssemblyInfo.cs
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.csproj.CopyComplete
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.dll
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/refint/Repository.dll
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.pdb
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/Repository.genruntimeconfig.cache
+/Users/sh1riyev/Projects/API-Architecture/Repository/obj/Release/net6.0/ref/Repository.dll

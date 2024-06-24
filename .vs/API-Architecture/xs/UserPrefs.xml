@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{80B7813E-F8FF-49C1-B453-BA5189F66442}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Configurations/BaseConfiguration.cs">
+    <Files>
+      <File FileName="Repository/Data/AppDbContext.cs" />
+      <File FileName="API-Architecture/Controllers/CountryController.cs" Line="64" Column="24" />
+      <File FileName="Service/DependencyInjection.cs" Line="26" Column="1" />
+      <File FileName="Repository/DependencyInjection.cs" />
+      <File FileName="Service/Services/CountryService.cs" Line="83" Column="1" />
+      <File FileName="Repository/Repositories/BaseRepository.cs" Line="103" Column="1" />
+      <File FileName="Domain/Configurations/BaseConfiguration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API-Architecture" expanded="True">
+            <Node name="API-Architecture" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Configurations" expanded="True">
+                <Node name="BaseConfiguration.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sh1riyev/Projects/API-Architecture/API-Architecture/Controllers/CountryController.cs" relfile="API-Architecture/Controllers/CountryController.cs" line="55" column="1" />
+      <Breakpoint file="/Users/sh1riyev/Projects/API-Architecture/API-Architecture/Controllers/CountryController.cs" relfile="API-Architecture/Controllers/CountryController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/sh1riyev/Projects/API-Architecture/API-Architecture/Controllers/CountryController.cs" relfile="API-Architecture/Controllers/CountryController.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.API-Architecture PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
