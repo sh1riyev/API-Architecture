@@ -14,7 +14,7 @@ namespace Domain.Configurations
         public virtual void Configure(EntityTypeBuilder<T> builder)
         {
             builder.Property(p => p.IsDeleted).HasDefaultValue(false);
-            builder.Property(p => p.CreateDate).HasDefaultValue(DateTime.Now);
+            builder.Property(p => p.CreateDate).HasDefaultValue(DateTime.UtcNow.AddHours(8));
         }
     }
 }

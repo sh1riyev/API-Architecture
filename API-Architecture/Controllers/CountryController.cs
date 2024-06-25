@@ -58,9 +58,9 @@ namespace API_Architecture.Controllers
 			{
                 if (!ModelState.IsValid) return BadRequest(ModelState);
                 if (await _countryService.IsExist(m => m.Name == request.Name)) return BadRequest("This country is exist");
-                var mappedCountry = _mapper.Map<Country>(request);
-				var response= _countryService.Create(mappedCountry);
-                return Ok(response);
+				var mappedCountry = _mapper.Map<Country>(request);
+				await _countryService.Create(mappedCountry);
+                return CreatedAtAction(nameof(Create), mappedCountry);
             }
 			catch (Exception ex)
 			{
@@ -86,7 +86,7 @@ namespace API_Architecture.Controllers
 		}
 
 		[HttpPut("{id}")]
-		public async Task<IActionResult> Update(int ? id,CountryUpdateDto request)
+		public async Task<IActionResult> Update([FromForm] CountryUpdateDto request,int ? id)
 		{
 			try
 			{
